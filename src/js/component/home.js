@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
-import { TheJumbotron } from "./jumbotron.jsx";
-import { TheNavbar } from "./navbar.jsx";
-import { TheCards } from "./cards.jsx";
+import { TheJumbotron } from "./TheJumbotron.jsx";
+import { TheNavbar } from "./TheNavbar.jsx";
+import { TheCards } from "./TheCards.jsx";
 import { CardGroup } from "react-bootstrap";
-import { TheFooter } from "./footer.jsx";
+import { TheFooter } from "./TheFooter.jsx";
 
 const cardsContents = [
   {
